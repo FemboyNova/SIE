@@ -1,0 +1,4 @@
+colorama
+glob2
+tabulate
+pypresence
