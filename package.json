@@ -1,8 +1,11 @@
 {
   "name": "sie",
   "version": "1.0.0",
-  "description": "",
+  "description": "A tray app for Salad logs and Discord RPC",
   "main": "index.js",
+  "bin": {
+    "salad-helper": "src/index.js"
+  },
   "scripts": {
     "test": "node src/index.js"
   },
@@ -10,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord-rpc": "^4.0.1"
+    "discord-rpc": "^4.0.1",
+    "systeminformation": "^5.25.11",
+    "systray": "^1.0.5"
   }
 }
