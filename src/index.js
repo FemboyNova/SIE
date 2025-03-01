@@ -27,7 +27,6 @@ const systray = new Systray({
         title: "Salad Helper",
         tooltip: "Salad Helper is running",
         items: [
-            { title: "Show Status", tooltip: "Show current earnings", checked: false, enabled: true },
             { title: "Exit", tooltip: "Close Salad Helper", checked: false, enabled: true }
         ]
     },
