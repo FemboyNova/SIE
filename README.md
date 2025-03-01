@@ -9,3 +9,5 @@ Download the latest release from GitHub Releases.
 Run SIE.exe, and it will appear in the system tray.
 
 Developed by FemboyNova.
+
+⚠️ Warning: We are not associated with Salad Technologies/Salad.com.
